@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.control.ScrollPane?>
+
+<?import java.net.URL?>
+<AnchorPane prefHeight="500.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.western.frontend.TutController" styleClass="background">
+    <stylesheets>
+        <URL value="@style.css" />
+    </stylesheets>
+
+    <children>
+        <Button layoutX="10" layoutY="10" text="Back" onAction="#handleBackButtonAction" fx:id="backButton"/>
+        <ScrollPane fx:id="scrollPane" layoutX="75.0" layoutY="50.0" prefWidth="450.0" prefHeight="400.0" pannable="true" hbarPolicy="NEVER">
+            <content>
+                <VBox alignment="CENTER" spacing="10">
+                    <children>
+                        <ImageView fx:id="imageView1" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+                        <ImageView fx:id="imageView2" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+                        <ImageView fx:id="imageView3" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+                        <ImageView fx:id="imageView4" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+                        <ImageView fx:id="imageView5" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+                        <ImageView fx:id="imageView6" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+                        <ImageView fx:id="imageView7" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+                        <ImageView fx:id="imageView8" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+                        <ImageView fx:id="imageView9" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+                        <ImageView fx:id="imageView10" fitHeight="315.0" fitWidth="440.0" preserveRatio="true"/>
+
+                    </children>
+                </VBox>
+            </content>
+        </ScrollPane>
+    </children>
+</AnchorPane>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+
+<HBox xmlns:fx="http://javafx.com/fxml" fx:controller="org.western.frontend.NewgameController" stylesheets="@style.css" styleClass="background">
+
+    <VBox style="-fx-padding: 10 0 0 10">
+        <Button text="Back" onAction="#backHome"/>
+    </VBox>
+
+    <HBox alignment="CENTER" spacing="70.0" style="-fx-padding: 0 0 0 -18">
+        <Button fx:id="easyButton" id="1" text="EASY" prefWidth="120" prefHeight="80" onAction="#newGame"/>
+        <Button fx:id="mediumButton" id="2" text="MEDIUM" prefWidth="120" prefHeight="80" onAction="#newGame"/>
+        <Button fx:id="hardButton" id="3" text="HARD" prefWidth="120" prefHeight="80" onAction="#newGame"/>
+    </HBox>
+
+</HBox>

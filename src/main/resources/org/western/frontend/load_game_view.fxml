@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import java.net.URL?>
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="org.western.frontend.LoadGameEntriesController" styleClass="background" prefHeight="500.0" prefWidth="600.0">
+    <stylesheets>
+        <URL value="@style.css" />
+    </stylesheets>
+
+        <Button fx:id="backButton" layoutX="10" layoutY="10" text="Back" onAction="#handleBackButtonAction"/>
+        <!--Label fx:id="titleLabel" layoutX="50" layoutY="100.0" text="Choose your saved game"/-->
+        <VBox alignment="CENTER" layoutX="50.0" layoutY="50.0" prefWidth="500.0" prefHeight="400.0" spacing="20">
+                <TableView fx:id="savedGameTable" styleClass="table-view" prefWidth="500.0" prefHeight="300.0">
+                    <columns>
+                        <TableColumn fx:id="column1" prefWidth="124" text="Record Number" />
+                        <TableColumn fx:id="column2" prefWidth="124" text="Level" />
+                        <TableColumn fx:id="column3" prefWidth="124" text="Completed" />
+                        <TableColumn fx:id="column4" prefWidth="124" text="Score" />
+                    </columns>
+                </TableView>
+                <Button fx:id="continueButton" text="Continue the game" onAction="#handleContinueButtonAction" />
+        </VBox>
+</AnchorPane>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<?import java.net.URL?>
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="org.western.frontend.CollectionController" styleClass="background" prefHeight="500.0" prefWidth="600.0" >
+    <stylesheets>
+        <URL value="@style.css" />
+    </stylesheets>
+
+        <Button fx:id="backButton" layoutX="10" layoutY="10" text="Back" onAction="#handleBackAction"/>
+        <VBox alignment="CENTER" layoutX="50.0" layoutY="50.0" prefWidth="500.0" prefHeight="400.0" spacing="20" >
+                <ListView fx:id="quotesListView" styleClass="collection-list-view" prefHeight="360.0" prefWidth="500.0">
+                    <!-- List items will be added here -->
+                </ListView>
+                <Label fx:id="collectedLabel" />
+        </VBox>
+</AnchorPane>

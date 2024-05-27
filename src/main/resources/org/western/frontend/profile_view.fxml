@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.text.Font?>
+
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.control.ScrollPane?>
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="org.western.frontend.MainWindow"
+      alignment="CENTER" spacing="20" stylesheets="@style.css" styleClass="background" style="-fx-padding: 20px 0 0 0">
+
+    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="PhilosoFill"
+          textAlignment="CENTER" VBox.vgrow="NEVER">
+        <font>
+            <Font name="Arial Rounded MT Bold" size="65.0"/>
+        </font>
+    </Text>
+
+    <ScrollPane styleClass="main" VBox.vgrow="ALWAYS" style="-fx-padding: 20px 0 0 0">
+        <FlowPane fx:id="profileContainer" hgap="5" vgap="5" alignment="CENTER" prefWrapLength="580">
+            <!-- The dynamic profile HBoxes will be added here -->
+        </FlowPane>
+    </ScrollPane>
+
+</VBox>

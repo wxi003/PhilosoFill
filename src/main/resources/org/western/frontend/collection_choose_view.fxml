@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import java.net.URL?>
+<AnchorPane styleClass="background" prefHeight="500.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.western.frontend.CollectionChooseController">
+    <stylesheets>
+        <URL value="@style.css" />
+    </stylesheets>
+    <Button layoutX="10" layoutY="10" text="Back" onAction="#handleBackButtonAction" />
+    <VBox alignment="CENTER" layoutX="180.0" layoutY="200.0" spacing="10.0">
+        <HBox alignment="CENTER" spacing="10.0">
+            <Label text="Choose a level:" />
+            <ComboBox fx:id="levelComboBox" prefWidth="130">
+                <!-- Items will be set in the controller -->
+            </ComboBox>
+        </HBox>
+
+    </VBox>
+    <Button fx:id="continueButton" layoutX="260.0" layoutY="320.0" text="Continue" onAction="#handleContinueButtonAction" />
+</AnchorPane>

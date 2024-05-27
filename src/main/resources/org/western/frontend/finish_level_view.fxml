@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<?import java.net.URL?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="org.western.frontend.FinishLevelController" styleClass="background" >
+    <stylesheets>
+        <URL value="@style.css" />
+    </stylesheets>
+
+    <children>
+        <VBox alignment="CENTER" AnchorPane.topAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0">
+            <Label text="Congratulations! You have completed this level!" style="-fx-font-size: 20;" />
+        </VBox>
+        <HBox spacing="20" AnchorPane.leftAnchor="20.0" AnchorPane.bottomAnchor="20.0">
+
+            <Label fx:id="totalScoreLabel"/>
+            <Label fx:id="resultLabel"/>
+        </HBox>
+        <Button text="Next >" AnchorPane.rightAnchor="20.0" AnchorPane.bottomAnchor="20.0" fx:id="menuButton" onAction="#nextScreen"/>
+    </children>
+</AnchorPane>
