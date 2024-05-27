@@ -1,0 +1,364 @@
+[
+    {
+        "id": 1,
+        "level": 1,
+        "puzzle": "d",
+        "solution": "God is dead.",
+        "source": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "id": 2,
+        "level": 1,
+        "puzzle": "wn",
+        "solution": "Whereof one cannot speak, thereof one must be silent.",
+        "source": "Tractatus Logico-Philosophicus",
+        "author": "Ludwig Wittgenstein"
+    },
+    {
+        "id": 3,
+        "level": 1,
+        "puzzle": "r",
+        "solution": "Humankind cannot bear very much reality.",
+        "source": "Burnt Norton",
+        "author": "T. S. Eliot"
+    },
+    {
+        "id": 4,
+        "level": 1,
+        "puzzle": "m",
+        "solution": "Enlightenment is man's emergence from his self-imposed immaturity.",
+        "source": "An Answer to the Question: What Is Enlightenment?",
+        "author": "Immanuel Kant"
+    },
+    {
+        "id": 5,
+        "level": 1,
+        "puzzle": "ai",
+        "solution": "Reality is ultimately water.",
+        "source": "Aristotle’s Metaphysics",
+        "author": "Thales"
+    },
+    {
+        "id": 6,
+        "level": 1,
+        "puzzle": "et",
+        "solution": "I think, therefore I am.",
+        "source": "Meditationes de prima philosophia",
+        "author": "Rene Descartes"
+    },
+    {
+        "id": 7,
+        "level": 1,
+        "puzzle": "fer",
+        "solution": "Free election of masters does not abolish the masters or the slaves. Free choice among a wide variety of goods and services does not signify freedom if these goods and services sustain social controls over a life of toil and fear – that is, if they sustain alienation.",
+        "source": "One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society",
+        "author": "Herbert Marcuse"
+    },
+    {
+        "id": 8,
+        "level": 1,
+        "puzzle": "ec",
+        "solution": "A certificate tells me that I was born. I repudiate this certificate: I am not a poet, but a poem. A poem that is being written, even if it looks like a subject.",
+        "source": "The Seminar of Jacques Lacan: The Four Fundamental Concepts of Psychoanalysis",
+        "author": "Jacques Lacan"
+    },
+    {
+        "id": 9,
+        "level": 1,
+        "puzzle": "img",
+        "solution": "It is important to read these eminent writers as engaging in a great imaginative effort. To read them as if they were just solving some technical puzzles or, as some people complain, “just playing with words,” is to misunderstand the way that we all see the world. For we all need a vision, a conceptual framework, to give facts and things meaning and make our lives worthwhile.",
+        "source": "The Big Questions A Short Introduction to Philosophy",
+        "author": "Robert C. Solomon"
+    },
+    {
+        "id": 10,
+        "level": 1,
+        "puzzle": "ci",
+        "solution": "The more powerful the class, the more it claims not to exist.",
+        "source": "The Society of the Spectacle",
+        "author": "Guy Debord"
+    },
+    {
+        "id": 11,
+        "level": 1,
+        "puzzle": "p",
+        "solution": "This society eliminates geographical distance only to produce a new internal separation.",
+        "source": "The Society of the Spectacle",
+        "author": "Guy Debord"
+    },
+    {
+        "id": 12,
+        "level": 1,
+        "puzzle": "pl",
+        "solution": "Nature has placed mankind under the governance of two sovereign masters, pain and pleasure. It is for them alone to point out what we ought to do, as well as to determine what we shall do.",
+        "source": "Principles of Morals and Legislation",
+        "author": "Jeremy Bentham"
+    },
+    {
+        "id": 13,
+        "level": 1,
+        "puzzle": "o",
+        "solution": "But the life of a man is of no greater importance to the universe than that of an oyster.",
+        "source": "On Suicide",
+        "author": "David Hume"
+    },
+    {
+        "id": 14,
+        "level": 1,
+        "puzzle": "hl",
+        "solution": "Hell is—other people!",
+        "source": "No Exit",
+        "author": "Jean-Paul Sartre"
+    },
+    {
+        "id": 15,
+        "level": 1,
+        "puzzle": "e",
+        "solution": "Being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions.",
+        "source": "Second Treatise of Government",
+        "author": "John Locke"
+    },
+    {
+        "id": 16,
+        "level": 2,
+        "puzzle": "awn",
+        "solution": "I am the wisest man alive, for I know one thing, and that is that I know nothing.",
+        "source": "The Republic",
+        "author": "Plato"
+    },
+    {
+        "id": 17,
+        "level": 2,
+        "puzzle": "ats",
+        "solution": "Art does not simply reveal God: it is one of the ways in which God reveals, and thus actualizes, himself.",
+        "source": "Introductory Lectures on Aesthetics",
+        "author": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+        "id": 18,
+        "level": 2,
+        "puzzle": "vos",
+        "solution": "No one is more arrogant toward women, more aggressive or scornful, than the man who is anxious about his virility.",
+        "source": "The Second Sex",
+        "author": "Simone de Beauvoir"
+    },
+    {
+        "id": 19,
+        "level": 2,
+        "puzzle": "ldn",
+        "solution": "I seek not to instruct but only to lead, to point out and describe what I see. I claim no other right than that of speaking according to my best lights, principally before myself but in the same manner also before others, as one who has lived in all its seriousness the fate of a philosophical existence.",
+        "source": "The Crisis of European Sciences and Transcendental Phenomenology",
+        "author": "Edmund Husserl"
+    },
+    {
+        "id": 20,
+        "level": 2,
+        "puzzle": "rnp",
+        "solution": "Reading the morning newspaper is the realist's morning prayer. One orients one's attitude toward the world either by God or by what the world is. The former gives as much security as the latter, in that one knows how one stands.",
+        "source": "Miscellaneous Writings",
+        "author": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+        "id": 21,
+        "level": 2,
+        "puzzle": "wrlp",
+        "solution": "The philosophers have only interpreted the world, in various ways. The point, however, is to change it.",
+        "source": "Eleven Theses on Feuerbach",
+        "author": "Karl Marx"
+    },
+    {
+        "id": 22,
+        "level": 2,
+        "puzzle": "eabk",
+        "solution": "The less you eat, drink, buy books, go to the theatre or to balls, or to the pub, and the less you think, love, theorize, sing, paint, fence, etc., the more you will be able to save and the greater will become your treasure which neither moth nor rust will corrupt—your capital. The less you are, the less you express your life, the more you have, the greater is your alienated life and the greater is the saving of your alienated being.",
+        "source": "Economic & Philosophic Manuscripts of 1844",
+        "author": "Karl Marx"
+    },
+    {
+        "id": 23,
+        "level": 2,
+        "puzzle": "cns",
+        "solution": "It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness.",
+        "source": "A Contribution to the Critique of Political Economy",
+        "author": "Karl Marx"
+    },
+    {
+        "id": 24,
+        "level": 2,
+        "puzzle": "risk",
+        "solution": "It is solely by risking life that freedom is obtained; . . . the individual who has not staked his or her life may, no doubt, be recognized as a Person; but he or she has not attained the truth of this recognition as an independent self-consciousness.",
+        "source": "Phenomenology of Spirit",
+        "author": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+        "id": 25,
+        "level": 2,
+        "puzzle": "beut",
+        "solution": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.",
+        "source": "Of the Standard of Taste and Other Essays",
+        "author": "David Hume"
+    },
+    {
+        "id": 26,
+        "level": 2,
+        "puzzle": "uci",
+        "solution": "It is now some years since I detected how many were the false beliefs that I had from my earliest youth admitted as true, and how doubtful was everything I had since constructed on this basis: and from that time I was convinced that I must for once and for all seriously undertake to rid myself of all the opinions which I had formerly accepted and commence to build anew.",
+        "source": "Meditations",
+        "author": "Rene Descartes"
+    },
+    {
+        "id": 27,
+        "level": 2,
+        "puzzle": "exm",
+        "solution": "The unexamined life is not worth living.",
+        "source": "Apology",
+        "author": "Socrates"
+    },
+    {
+        "id": 28,
+        "level": 2,
+        "puzzle": "hnt",
+        "solution": "Human beings should be treated as an end in themselves and not as a means to something else.",
+        "source": "Critique of Practical Reason",
+        "author": "Immanuel Kant"
+    },
+    {
+        "id": 29,
+        "level": 2,
+        "puzzle": "dnv",
+        "solution": "In the end one loves one's desire and not what is desired.",
+        "source": "Beyond Good and Evil",
+        "author": "Friedrich Nietzsche"
+    },
+
+    {
+        "id": 30,
+        "level": 2,
+        "puzzle": "hse",
+        "solution": "Our search for the human takes us too far, too 'deep' , we seek it in the clouds or in mysteries, whereas it is waiting for us, besieging us on all sides. We will not find it in myths - although human facts carry with them a long and magnificent procession of legends, tales and songs, poems and dances. All we need do is simply to open our eyes, to leave the dark world of metaphysics and the false depths of the 'inner life' behind, and we will discover the immense human wealth that the humblest facts of everyday life contain.",
+        "source": "Critique of Everyday Life",
+        "author": "Henri Lefebvre"
+    },
+
+    {
+        "id": 31,
+        "level": 3,
+        "puzzle": "cain",
+        "solution": "Capitalism could appropriate even the most radical ideas and return them safely in the form of harmless ideologies.",
+        "source": "Society Of The Spectacle",
+        "author": "Guy Debord"
+    },
+    {
+        "id": 32,
+        "level": 3,
+        "puzzle": "acni",
+        "solution": "A person may cause evil to others not only by his actions but by his inaction, and in either case he is justly accountable to them for the injury.",
+        "source": "On Liberty",
+        "author": "John Stuart Mill"
+    },
+    {
+        "id": 33,
+        "level": 3,
+        "puzzle": "irnoy",
+        "solution": "It is part of the irony of life that the strongest feelings of devoted gratitude of which human nature seems to be susceptible, are called forth in human beings towards those who, having the power entirely to crush their earthly existence, voluntarily refrain from using that power.",
+        "source": "The Subjection of Women",
+        "author": "John Stuart Mill"
+    },
+    {
+        "id": 34,
+        "level": 3,
+        "puzzle": "fgotie",
+        "solution": "Ha! to forget. How childish! I feel you in my bones. Your silence screams in my ears. You may nail your mouth shut, you may cut out your tongue, can you keep yourself from existing? Will you stop your thoughts.",
+        "source": "No Exit and Three Other Plays",
+        "author": "Jean-Paul Sartre"
+    },
+    {
+        "id": 35,
+        "level": 3,
+        "puzzle": "imgpo",
+        "solution": "Only in imaginary experience (in the folk tale, for example), which neutralizes the sense of social realities, does the social world take the form of a universe of possibles equally possible for any possible subject.",
+        "source": "The Logic of Practice",
+        "author": "Pierre Bourdieu"
+    },
+    {
+        "id": 36,
+        "level": 3,
+        "puzzle": "citso",
+        "solution": "Consider this table in front of us, which has hitherto roused but the slightest thought in us. It is full of surprising possibilities. The one thing we know is that it is not what it seems. Beyond this modest result, we have the most complete liberty of conjecture. Leibniz tells us it is a community of souls; Bishop Berkeley tells us it is an idea in the mind of God; sober science, scarcely less wonderful, tells us it is a vast collection of electric charges in violent motion.",
+        "source": "The Problem of Philosophy",
+        "author": "Bertrand Russell"
+    },
+    {
+        "id": 37,
+        "level": 3,
+        "puzzle": "pmsrt",
+        "solution": "Those who wish to seek out the cause of miracles and to understand the things of nature as philosophers, and not to stare at them in astonishment like fools, are soon considered heretical and impious, and proclaimed as such by those whom the mob adores as the interpreters of nature and the gods. For these men know that, once ignorance is put aside, that wonderment would be taken away, which is the only means by which their authority is preserved.",
+        "source": "Ethics",
+        "author": "Baruch Spinoza"
+    },
+    {
+        "id": 38,
+        "level": 3,
+        "puzzle": "aterf",
+        "solution": "‘True’ and ‘false’ are attributes of speech, not of things. And where speech is not, there is neither ‘truth’ nor ‘falsehood.",
+        "source": "Leviathan",
+        "author": "Thomas Hobbes"
+    },
+    {
+        "id": 39,
+        "level": 3,
+        "puzzle": "bcsdn",
+        "solution": "The Bible is very easy to understand. But we Christians are a bunch of scheming swindlers. We pretend to be unable to understand it because we know very well that the minute we understand, we are obliged to act accordingly.",
+        "source": "Provocations: Spiritual Writings of Kierkegaard",
+        "author": "Søren Kierkegaard"
+    },
+    {
+        "id": 40,
+        "level": 3,
+        "puzzle": "cptaib",
+        "solution": "Capital is no longer the invisible center governing the production process; as it accumulates, it spreads to the ends of the earth in the form of tangible objects. The entire expanse of society is its portrait.",
+        "source": "Society of the Spectacle",
+        "author": "Guy Debord"
+    },
+    {
+        "id": 41,
+        "level": 3,
+        "puzzle": "abscid",
+        "solution": "Abstract ideas are conceptual integrations which subsume an incalculable number of concretes - and without abstract ideas you would not be able to deal with concrete, particular, real-life problems. You would be in the position of a new born infant",
+        "source": "Philosophy: Who Needs It",
+        "author": "Ayn Rand"
+    },
+    {
+        "id": 42,
+        "level": 3,
+        "puzzle": "despim",
+        "solution": "Even despotism does not produce its worst effects, so long as individuality exists under it; and whatever crushes individuality is despotism, by whatever name it may be called, and whether it professes to be enforcing the will of God or the injunctions of men.",
+        "source": "On Liberty",
+        "author": "John Stuart Mill"
+    },
+    {
+        "id": 43,
+        "level": 3,
+        "puzzle": "suide",
+        "solution": "There is only one really serious philosophical question,and that is suicide. Deciding whether or not life is worth living is to answer the fundamental question in philosophy.",
+        "source": "The Myth of Sisyphus",
+        "author": "Albert Camus"
+    },
+    {
+        "id": 44,
+        "level": 3,
+        "puzzle": "thinkg",
+        "solution": "My thought is me: that's why I can't stop. I exist because I think… and I can't stop myself from thinking. At this very moment - it's frightful - if I exist, it is because I am horrified at existing. I am the one who pulls myself from the nothingness to which I aspire.",
+        "source": "Nausea",
+        "author": "Jean-Paul Sartre"
+    },
+    {
+        "id": 45,
+        "level": 3,
+        "puzzle": "crvge",
+        "solution": "Courage consists, however, in agreeing to flee rather than live tranquilly and hypocritically in false refuges. Values, morals, homelands, religions, and these private certitudes that our vanity and our complacency bestow generously on us, have many deceptive sojourns as the world arranges for those who think they are standing straight and at ease, among stable things.",
+        "source": "Anti-Oedipus: Capitalism and Schizophrenia",
+        "author": "Gilles Deleuze"
+    }
+]
