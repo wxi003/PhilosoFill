@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import java.net.URL?>
+<AnchorPane styleClass="background" prefHeight="500.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.western.frontend.DebugModeController">
+    <stylesheets>
+        <URL value="@style.css" />
+    </stylesheets>
+
+    <VBox alignment="CENTER" layoutX="200.0" layoutY="175.0" >
+        <HBox alignment="CENTER" >
+            <Label text="Choose a level:" style="-fx-padding: 0 10px 0 -20px" />
+            <ComboBox fx:id="levelComboBox" prefWidth="150">
+            </ComboBox>
+        </HBox>
+        <HBox alignment="CENTER" style="-fx-padding: 40px 0">
+            <Label text="Choose a puzzle:" style="-fx-padding: 0 10px 0 -20px" />
+            <ComboBox fx:id="puzzleComboBox" prefWidth="150">
+            </ComboBox>
+        </HBox>
+        <HBox alignment="CENTER" style="-fx-padding: 0 10px 0 -20px">
+            <Button text="Start Game" onAction="#startGame"/>
+        </HBox>
+    </VBox>
+    <Button layoutX="10" layoutY="10" text="Back" onAction="#handleBackButtonAction" />
+</AnchorPane>
