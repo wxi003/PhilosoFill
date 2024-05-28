@@ -1,4 +1,28 @@
 # PhilosoFill
+Login Interface<br>
+<img width="598" alt="Screenshot 2024-05-27 at 9 53 26 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/1c29b543-b8f4-429f-9f48-a6eb090092b0">
+
+
+Main Menu<br>
+<img width="599" alt="Screenshot 2024-05-27 at 9 54 04 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/576b9d99-ab2f-45f8-b0a6-acc8f65273c4">
+
+
+Game Interface<br>
+<img width="594" alt="Screenshot 2024-05-27 at 9 54 54 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/4b109aa5-39ed-42a3-8d50-fb0852c26adc">
+
+
+High Score List<br>
+<img width="597" alt="Screenshot 2024-05-27 at 9 55 59 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/22ec6f5c-f350-4693-b0c0-e951bc3a7096">
+
+
+Saved Game Interface<br>
+<img width="600" alt="Screenshot 2024-05-27 at 10 02 11 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/0e892a3b-2c74-43f1-aa97-785bb94fe928">
+
+
+Collection Interface<br>
+<img width="598" alt="Screenshot 2024-05-27 at 10 00 36 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/f39e39c6-92bc-4438-9609-1bf2e11d4a1a">
+
+
 ## Description
 This desktop application is an immersive educational puzzle game designed for teenagers. It transports players to a mystical world of philosophical discovery, where they are challenged to complete famous philosophical quotes by filling in missing words. The game combines the thrill of puzzle-solving with the discovery of ancient wisdom in an engaging, educational format.
 ## System Requirements
@@ -42,28 +66,3 @@ If you find the game window too small, you can adjust the display resolution to 
 
 ## Contributors
 CS2212B Winter 2024: Xi Wang, Chao Zhang, Enqin Liu, Xikai Lin, Yuqian Sun 
-
-
-### Login Interface
-<img width="598" alt="Screenshot 2024-05-27 at 9 53 26 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/1c29b543-b8f4-429f-9f48-a6eb090092b0">
-
-
-### Main Menu
-<img width="599" alt="Screenshot 2024-05-27 at 9 54 04 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/576b9d99-ab2f-45f8-b0a6-acc8f65273c4">
-
-
-### Game Interface
-<img width="594" alt="Screenshot 2024-05-27 at 9 54 54 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/4b109aa5-39ed-42a3-8d50-fb0852c26adc">
-
-
-### High Score List
-<img width="597" alt="Screenshot 2024-05-27 at 9 55 59 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/22ec6f5c-f350-4693-b0c0-e951bc3a7096">
-
-
-### Saved Game Interface
-<img width="600" alt="Screenshot 2024-05-27 at 10 02 11 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/0e892a3b-2c74-43f1-aa97-785bb94fe928">
-
-
-### Collection Interface
-<img width="598" alt="Screenshot 2024-05-27 at 10 00 36 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/f39e39c6-92bc-4438-9609-1bf2e11d4a1a">
-
