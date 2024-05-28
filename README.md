@@ -42,3 +42,22 @@ If you find the game window too small, you can adjust the display resolution to 
 
 ## Contributors
 CS2212B Winter 2024: Xi Wang, Chao Zhang, Enqin Liu, Xikai Lin, Yuqian Sun 
+
+### Login Interface
+<img width="598" alt="Screenshot 2024-05-27 at 9 53 26 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/1c29b543-b8f4-429f-9f48-a6eb090092b0">
+
+### Main Menu
+<img width="599" alt="Screenshot 2024-05-27 at 9 54 04 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/576b9d99-ab2f-45f8-b0a6-acc8f65273c4">
+
+### Game Interface
+<img width="594" alt="Screenshot 2024-05-27 at 9 54 54 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/4b109aa5-39ed-42a3-8d50-fb0852c26adc">
+
+### High Score List
+<img width="597" alt="Screenshot 2024-05-27 at 9 55 59 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/22ec6f5c-f350-4693-b0c0-e951bc3a7096">
+
+### Saved Game Interface
+<img width="599" alt="Screenshot 2024-05-27 at 9 59 41 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/17e88228-702d-493b-9792-cc7f0f9888c5">
+
+### Collection Interface
+<img width="598" alt="Screenshot 2024-05-27 at 10 00 36 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/f39e39c6-92bc-4438-9609-1bf2e11d4a1a">
+
