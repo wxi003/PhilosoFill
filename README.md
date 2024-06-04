@@ -2,14 +2,21 @@
 Login Interface<br>
 <img width="598" alt="Screenshot 2024-05-27 at 9 53 26 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/1c29b543-b8f4-429f-9f48-a6eb090092b0">
 
+Create a User<br>
+<img width="601" alt="Screenshot 2024-06-04 at 9 10 28 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/ca472d32-873b-4c2e-9a1d-2f557affc941">
 
 Main Menu<br>
 <img width="599" alt="Screenshot 2024-05-27 at 9 54 04 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/576b9d99-ab2f-45f8-b0a6-acc8f65273c4">
+
+Level Selection<br>
+<img width="599" alt="Screenshot 2024-06-04 at 9 13 21 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/9f7e30cc-8084-4259-8982-492bd7d2ceb6">
 
 
 Game Interface<br>
 <img width="594" alt="Screenshot 2024-05-27 at 9 54 54 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/4b109aa5-39ed-42a3-8d50-fb0852c26adc">
 
+Settlement Interface<br>
+<img width="599" alt="Screenshot 2024-06-04 at 9 20 30 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/ea14607e-7bfc-49ab-8c3c-5ce7062bdf4b">
 
 High Score List<br>
 <img width="597" alt="Screenshot 2024-05-27 at 9 55 59 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/22ec6f5c-f350-4693-b0c0-e951bc3a7096">
@@ -21,6 +28,12 @@ Saved Game Interface<br>
 
 Collection Interface<br>
 <img width="598" alt="Screenshot 2024-05-27 at 10 00 36 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/f39e39c6-92bc-4438-9609-1bf2e11d4a1a">
+
+Instructor Tracking Panel<br>
+<img width="600" alt="Screenshot 2024-06-04 at 9 15 02 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/bb80cae4-0d59-44f8-9b3c-f1723f954465">
+
+Debug Mode<br>
+<img width="598" alt="Screenshot 2024-06-04 at 9 16 23 PM" src="https://github.com/wxi003/PhilosoFill/assets/122643336/4005ed1b-63ac-4bfa-ae16-f9ee6ef0ad22">
 
 
 ## Description
